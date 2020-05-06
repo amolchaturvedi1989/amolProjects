@@ -8,6 +8,7 @@ public class AmolWebServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AmolWebServiceApplication.class, args);
+		System.out.println("hi");
 	}
 
 }
